@@ -32,7 +32,7 @@ pip install pystray pillow
 **1. Clone or download this repo**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/openclaw-tray
+https://github.com/Skanderba8/OpenClaw-tray-extension
 ```
 
 **2. Rename the file**
